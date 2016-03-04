@@ -1,16 +1,3 @@
-/*
-SQLyog Community v12.2.1 (64 bit)
-MySQL - 5.5.44-MariaDB-wsrep : Database - utest
-*********************************************************************
-*/
-
-/*** Caution: If you have previously installed version of UTest please    ***/
-/***          make sure you bacck up your SQL tables [results] and [test] ***/
-/***          in order to not lose data with this installation            ***/
-
-DROP DATABASE utest;
-CREATE DATABASE utest DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
-
 /*!40101 SET NAMES utf8 */;
 
 /*!40101 SET SQL_MODE=''*/;
